@@ -23,6 +23,16 @@
         {/each}
         <br />
       {/if}
+      Powered by
+      <a
+        rel="noopener noreferrer external"
+        target="_blank"
+        class="tooltip tooltip-secondary hover:text-secondary"
+        data-tip="🌸 [δ] - Based on MDsveX & SvelteKit 🌸 Urara-Project by kwaa 藍+85CD on GH"
+        href="https://en.wikipedia.org/wiki/WTFPL">
+        MW
+      </a>
+      <br />
       <a
         rel="noopener noreferrer external"
         target="_blank"
@@ -36,17 +46,6 @@
         ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
         : new Date().toJSON().substring(0, 4)}
       {site.author.name} $
-
-      <br />
-      Powered by
-      <a
-        rel="noopener noreferrer external"
-        target="_blank"
-        class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="🌸 [δ] - Based on MDsveX & SvelteKit 🌸 Urara-Project by kwaa 藍+85CD on GH"
-        href="https://en.wikipedia.org/wiki/WTFPL">
-        MW
-      </a>
 
       {#if footerConfig.html}
         <br />
