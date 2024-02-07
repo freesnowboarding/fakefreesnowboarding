@@ -26,7 +26,10 @@
       $ {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
         ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
         : new Date().toJSON().substring(0, 4)}
-      {site.author.name} $
+      {
+      text: 'FCG',
+      link: 'https://fc-geisslingen.de/'
+      } $
       <br />
       Powered by
       <a
