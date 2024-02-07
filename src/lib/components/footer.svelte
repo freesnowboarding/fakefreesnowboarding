@@ -170,7 +170,7 @@
     </p>
 
     <p>
-       -> <a href="https://www.deepl.com"Different Language</a>
+       <a href="https://www.deepl.com">Different Language</a>
     </p>
   </div>
 </footer>
