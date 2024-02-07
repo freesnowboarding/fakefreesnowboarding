@@ -23,7 +23,6 @@
         {/each}
         <br />
       {/if}
-      Powered by
       <a
         rel="noopener noreferrer external"
         target="_blank"
