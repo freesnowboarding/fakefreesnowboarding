@@ -11,5 +11,5 @@ export const site: SiteConfig = {
   avatar: '/assets/gshit.png',
     name: 'Drink Water',
   status: '',
-    bio: '<a href=https://www.waldhaus-bier.de/>Bier</a> '}
+    bio: '<a href=https://www.waldhaus-bier.de/>🌊</a> '}
 }
