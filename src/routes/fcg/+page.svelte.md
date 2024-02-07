@@ -1,4 +1,4 @@
 ---
-image: '/fcg/inWORK2.PNG'
+image: '/fcg/inWORK2.png'
 alt: 'MjW'
 ---
