@@ -8,5 +8,6 @@ export const site: SiteConfig = {
   lang: 'en-US',
   description: 'Powered by SvelteKit/Urara',
   author: {  
-  name: 'Drink Water'}
+  avatar: '/assets/nobodies.png',
+    name: 'Drink Water'}
 }
