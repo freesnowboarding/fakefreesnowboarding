@@ -10,6 +10,6 @@ export const site: SiteConfig = {
   author: {  
   avatar: '/assets/gshit.png',
     name: 'Drink Water',
-  status: 'and more',
-    bio: '<a href=https://www.wedrinkwater.com/>🚰</a> </br> </br> <a href=https://www.waldhaus-bier.de/>🌊</a> '}
+  status: '',
+    bio: '<a href=https://www.wedrinkwater.com/>🚰</a> </br> and more </br> <a href=https://www.waldhaus-bier.de/>🌊</a> '}
 }
