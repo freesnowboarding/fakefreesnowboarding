@@ -39,7 +39,7 @@
         class="tooltip tooltip-secondary hover:text-secondary"
         data-tip="DRINK WATER"
         href="https://www.wedrinkwater.com">
-        Do it!
+        Trafalgar D. Water Law
       </a>
       <br />
       $ {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
