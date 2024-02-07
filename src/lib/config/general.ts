@@ -77,7 +77,7 @@ export const footer: FooterConfig = {
       link: 'https://www.jako.de/de/team/fc_geisslingen/'
     },
     {
-      text: 'Need 2 Watch Less Videos',
+      text: 'Lose',
       link: 'https://www.maerle7.work'
     }
   ]
