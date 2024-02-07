@@ -33,7 +33,7 @@
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
         data-tip="DRINK WATER"
-        href="www.wedrinkwater.com">
+        href="https://www.wedrinkwater.com">
         Do it!
       </a>
       <br />
