@@ -26,10 +26,16 @@
       $ {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
         ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
         : new Date().toJSON().substring(0, 4)}
-      {
-      text: 'FCG',
-      link: 'https://fc-geisslingen.de/'
-      } $
+      {site.author.name} $
+      <br />
+      <a
+        rel="noopener noreferrer external"
+        target="_blank"
+        class="tooltip tooltip-secondary hover:text-secondary"
+        data-tip="DRINK WATER"
+        href="www.wedrinkwater.com">
+        MW
+      </a>
       <br />
       Powered by
       <a
