@@ -82,7 +82,7 @@ export const footer: FooterConfig = {
     },
     {
       text: 'Impressum',
-      link: /impressum'
+      link: '/impressum'
     }
   ]
 }
