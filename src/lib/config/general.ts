@@ -79,6 +79,10 @@ export const footer: FooterConfig = {
     {
       text: 'Not Work',
       link: 'https://www.maerle7.work'
+    },
+    {
+      text: 'Impressum',
+      link: /impressum'
     }
   ]
 }
