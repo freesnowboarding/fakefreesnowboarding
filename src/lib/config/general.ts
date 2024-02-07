@@ -69,15 +69,15 @@ export const footer: FooterConfig = {
       link: 'https://fc-geisslingen.de/'
     },
     {
+      text: 'SHOP',
+      link: 'https://www.jako.de/de/team/fc_geisslingen/'
+    },
+        {
       text: 'OP',
       link: 'https://onepiece-tube.com/'
     },
     {
-      text: 'SHOP',
-      link: 'https://www.jako.de/de/team/fc_geisslingen/'
-    },
-    {
-      text: 'OD',
+      text: 'THC OD',
       link: 'https://onepiece-tube.com/manga/kapitel/1106/1'
     },
     {
