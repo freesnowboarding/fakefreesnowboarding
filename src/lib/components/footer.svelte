@@ -53,7 +53,7 @@
       {/if}
     </p>
 
-    <h1>Privacy Policy - Datenschutzerklärung</h1>
+    <h1>Privacy Policy  Datenschutzerklärung</h1>
     <h2>Allgemeiner Hinweis und Pflichtinformationen</h2>
     <h3>Benennung der verantwortlichen Stelle</h3>
     <p>
