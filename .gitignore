@@ -3,6 +3,7 @@ build
 .svelte-kit
 .netlify
 .vercel
+pnpm-lock.yaml
 
 # dependencies
 node_modules
