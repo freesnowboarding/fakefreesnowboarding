@@ -8,7 +8,7 @@ export const site: SiteConfig = {
   lang: 'en-US',
   description: 'Powered by SvelteKit/Urara',
   author: {  
-  avatar: '/assets/nobodies.png',
+  avatar: '/assets/gshit.png',
     name: 'Drink Water',
   status: '',
     bio: '<a href=https://www.waldhaus-bier.de/>Bier</a> '}
