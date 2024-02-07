@@ -56,12 +56,8 @@ export const head: HeadConfig = {}
 export const header: HeaderConfig = {
   nav: [
     {
-      text: 'Posts',
-      link: '/posts/the-dust-box-presents'
-    },
-    {
-      text: 'More',
-      link: '/more-art'
+      text: '',
+      link: '/'
     }
   ]
 }
@@ -69,7 +65,7 @@ export const header: HeaderConfig = {
 export const footer: FooterConfig = {
   nav: [
     {
-      text: 'FC G',
+      text: 'FCG',
       link: 'https://fc-geisslingen.de/'
     },
     {
@@ -77,12 +73,12 @@ export const footer: FooterConfig = {
       link: 'https://onepiece-tube.com/'
     },
     {
-      text: 'Impressum',
-      link: '/impressum'
+      text: 'SHOP',
+      link: 'https://www.jako.de/de/team/fc_geisslingen/'
     },
     {
-      text: 'FSB',
-      link: '/'
+      text: 'Need 2 Watch Less Videos',
+      link: 'https://www.maerle7.work'
     }
   ]
 }
