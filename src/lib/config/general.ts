@@ -77,7 +77,7 @@ export const footer: FooterConfig = {
       link: 'https://onepiece-tube.com/'
     },
     {
-      text: 'THC OD',
+      text: 'Gondola',
       link: 'https://onepiece-tube.com/manga/kapitel/1106/1'
     },
     {
