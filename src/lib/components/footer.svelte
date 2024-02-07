@@ -34,7 +34,7 @@
         class="tooltip tooltip-secondary hover:text-secondary"
         data-tip="DRINK WATER"
         href="www.wedrinkwater.com">
-        MW
+        Do it!
       </a>
       <br />
       Powered by
